@@ -85,7 +85,7 @@ python main.py --endpoint my-cluster.example.com --days 7
 --help               Show help message
 
 ---
-
+%%%%%%%%%%%%%%%%%%%%%OUTPUT%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ## Example Output that i got !!!!!!!
 ======================================================================
 STRAVA ELASTICSEARCH INDEX ANALYSIS REPORT
