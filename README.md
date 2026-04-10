@@ -24,13 +24,7 @@ on index sizes and shard allocation.
 
 ## Installation
 
-### 1. Clone the repository
 
-```bash
-Zip file also submitted but can also , clone from  github below.
-git clone https://github.com/strava/index-analyzer.git
-cd strava-index-analyzer
-```
 
 ### 2. Create a virtual environment (recommended)
 
