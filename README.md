@@ -177,5 +177,5 @@ strava-index-analyzer/
 
 ## Author
 
-Priya — Software Engineering Intern Candidate, Strava (Summer : 2026 )
+Priya 
 
