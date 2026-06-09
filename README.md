@@ -1,12 +1,12 @@
-Strava Elasticsearch Index Analyzer (I took real data bdw )
+Using Elasticsearch Index Analyzer (I took real data bdw )
 
 A command-line tool that analyzes Elasticsearch index data from
 Strava's logging infrastructure and produces actionable reports
 on index sizes and shard allocation.
 
----
 
-## What it does
+
+What it does
 
 - **Top 5 largest indexes by size** ( that is human readable GB)
 - **Top 5 indexes by shard count**
