@@ -7,7 +7,7 @@ on index sizes and shard allocation.
 What it does
 
 - *Top 5 largest indexes by size** ( that is human readable GB)
-- **Top 5 indexes by shard count**
+- *Top 5 indexes by shard count**
 - **Top 5 shard offenders** ( with recommended shard counts
   based on the 1 shard per 30 GB Elasticsearch best practice )
 
