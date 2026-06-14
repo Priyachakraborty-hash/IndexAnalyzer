@@ -1,4 +1,4 @@
-Using Elasticsearch Index Analyzer (I took real data bdw )
+Using Elasticsearch Index Analyzer (I took real data of Strava )
 
 A command-line tool that analyzes Elasticsearch index data from
 Strava's logging infrastructure and produces actionable reports
