@@ -11,8 +11,6 @@ What it does
 - Top 5 shard offenders** ( with recommended shard counts
   based on the 1 shard per 30 GB Elasticsearch best practice )
 
----
-
 ## Requirements
 
 - Python 3.10 or higher
